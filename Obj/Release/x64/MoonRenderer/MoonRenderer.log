@@ -1,0 +1,7 @@
+﻿  RenderMain.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library C:\Users\Sephy\Documents\_Code\Jellyfish\Moon\Source\..\Bin\Release\x64\MoonRenderer\MoonRenderer_r.lib and object C:\Users\Sephy\Documents\_Code\Jellyfish\Moon\Source\..\Bin\Release\x64\MoonRenderer\MoonRenderer_r.exp
+  Generating code
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MoonRenderer.vcxproj -> C:\Users\Sephy\Documents\_Code\Jellyfish\Moon\Source\..\Bin\Release\x64\MoonRenderer\MoonRenderer_r.dll
